@@ -91,7 +91,7 @@ body { margin: 0; background: #DCD9CE; }
   justify-content: space-between; gap: 14px;
 }
 .hd-item::before {
-  content: "\u2022"; position: absolute; left: 4px; top: 10px;
+  content: "•"; position: absolute; left: 4px; top: 10px;
   font-size: 15px; line-height: 24px; color: var(--stamp);
 }
 .hd-range {
